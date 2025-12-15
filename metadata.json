@@ -1,0 +1,5 @@
+{
+  "name": "TrueCapture: AI De-Fingerprinter",
+  "description": "Transform AI-generated images into natural, realistic photographs using advanced generative algorithms to remove synthetic artifacts.",
+  "requestFramePermissions": []
+}
